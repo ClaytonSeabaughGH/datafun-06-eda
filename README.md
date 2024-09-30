@@ -4,7 +4,7 @@
 ```
 The dataset used in this project is from the FDIC and it is a comprehensive list of failed banks in the United States.
 ```
-[Failed Banks Dataset](https://github.com/ClaytonSeabaughGH/datafun-06-eda)
+[Failed Banks Dataset](https://www.fdic.gov/bank-failures/failed-bank-list)
 
 
 
